@@ -13,6 +13,7 @@ In this post, I’ll share my journey deploying a static web application on AWS 
 Here’s the final architecture:
 
 ```
+![Uploading ChatGPT Image Feb 14, 2026, 08_11_13 AM.png…]()
 
 
 ```
